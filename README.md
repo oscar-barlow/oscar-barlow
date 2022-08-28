@@ -1,7 +1,7 @@
 # Oscar Barlow
 
 ## Introduction
-I'm a Tech lead at [Starling Bank](https://www.starlingbank.com/) in London, a former [Infinity-Worker](https://www.infinityworks.com/), and a [Maker](https://makers.tech/). I build and lead a teams of engineers in data-intensive projects.
+I'm a Tech Lead at [Starling Bank](https://www.starlingbank.com/) in London, a former [Infinity-Worker](https://www.infinityworks.com/), and a [Maker](https://makers.tech/). I build and lead a teams of engineers in data-intensive projects.
 
 ## Key Achievements
 * Shipped a real-time data platform and cultivated a team of streaming data experts
