@@ -1,7 +1,7 @@
 # Oscar Barlow
 
 ## Introduction
-I'm a Tech Lead at [Starling Bank](https://www.starlingbank.com/) in London, a former [Infinity-Worker](https://www.infinityworks.com/), and a [Maker](https://makers.tech/). I build and lead a teams of engineers in data-intensive projects.
+I'm a Tech Lead/Engineering Manager covering Data & ML at [Starling Bank](https://www.starlingbank.com/) in London, a former [Infinity-Worker](https://www.infinityworks.com/), and a [Maker](https://makers.tech/).
 
 ## Key Achievements
 * Shipped a real-time data platform at Starling, and cultivated a team of streaming data experts
@@ -26,4 +26,4 @@ Right now I enjoy:
 * Hiking
 * Reading - you can see my public notes and reviews of books I've read on my [Goodreads profile](https://www.goodreads.com/user/show/88872855-oscar-barlow).
 
-Beyond this, I'm a proud father to a toddler.
+Beyond this, I'm a proud father to 2 young children.
