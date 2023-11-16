@@ -1,13 +1,17 @@
 # Oscar Barlow
 
 ## Introduction
-I'm a Tech Lead/Engineering Manager covering Data & ML at [Starling Bank](https://www.starlingbank.com/) in London, a former [Infinity-Worker](https://www.infinityworks.com/), and a [Maker](https://makers.tech/).
+I am a strategic engineering leader covering ML Ops & Governance. I work at Starling Bank in London. I design and build systems and teams to solve business problems with data and ML.
 
 ## Key Achievements
-* Shipped a real-time data platform at Starling, and cultivated a team of streaming data experts
-* Led a 3-person team to migrate a client's on-premise data warehouse to a cloud-based solution
-* Led a team to launch an internal, algorthmic competitive intelligence tool for a retail client
-* Mentored and taught numerous junior and midlevel developers
+* Created an 'accessible ML' framework at Starling, increasing the amount of ML models produced
+by making ML workflow tooling usable by a broader community (data analysts as well as data
+scientists)
+* Shipped a real-time data platform and rebuilt the data engineering team at Starling; multiplying
+the number of people who could accomplish work in the data warehouse by 10x. Business
+feedback, "whenever I want data, it’s there."
+* Launched an internal, algorithmic competitive intelligence tool for a UK national supermarket,
+driving price competitiveness and product range decisions.
 
 If you'd like to know more, read my [CV](https://github.com/oscar-barlow/CV).
 
@@ -17,8 +21,6 @@ The languages I know and whose ecosystems I'm most familiar with are:
 * Python 3
 * Terraform (HCL)
 * Java
-
-In addition, I am [AWS](https://aws.amazon.com/) Solution Architect (Associate) and [Snowflake](https://www.snowflake.com/) SnowPro Core certified. I'm working on a GCP cert.
 
 ## Non-worky stuff
 Right now I enjoy:
